@@ -208,7 +208,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="$ThemeDir/images/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="$ThemeDir/images/portfolio/portfolio.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -218,7 +218,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="$ThemeDir/images/portfolio/cake.png" class="img-responsive" alt="">
+                        <img src="$ThemeDir/images/portfolio/tournament.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -228,7 +228,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="$ThemeDir/images/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="$ThemeDir/images/portfolio/trailer.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -354,7 +354,7 @@
                         <div class="modal-body">
                             <h2><a href="http://kevinramel.com">Personal Website & Portfolio</a></h2>
                             <hr class="star-primary">
-                            <img src="$ThemeDir/images/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                            <img src="$ThemeDir/images/portfolio/portfolio.png" class="img-responsive img-centered" alt="">
                             <p>Stack: PHP, SilverStripe, jQuery, Bootstrap, Freelancer Theme</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
@@ -377,7 +377,7 @@
                         <div class="modal-body">
                             <h2><a href="https://github.com/kevinramel/tournament-results">Tournament Results</a></h2>
                             <hr class="star-primary">
-                            <img src="$ThemeDir/images/portfolio/cake.png" class="img-responsive img-centered" alt="">
+                            <img src="$ThemeDir/images/portfolio/tournament.png" class="img-responsive img-centered" alt="">
                             <p>• Develop a database schema to store the game matches between players.<br>
                             • Write code to query this data and determine the winners of various games.</p><br>
                             <p>Stack: Python, Git, Vagrant, PostgreSQL</p>
@@ -402,7 +402,7 @@
                         <div class="modal-body">
                             <h2><a href="https://github.com/kevinramel/movie-trailer-website">Movie Trailer Website</a></h2>
                             <hr class="star-primary">
-                            <img src="$ThemeDir/images/portfolio/circus.png" class="img-responsive img-centered" alt="">
+                            <img src="$ThemeDir/images/portfolio/trailer.png" class="img-responsive img-centered" alt="">
                             <p>• Server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL.<br>
                             • Data will be served as a web page allowing visitors to review their movies and watch the trailers.</p><br>
                             Stack: Python, HTML, Javascript
