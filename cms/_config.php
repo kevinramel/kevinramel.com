@@ -24,4 +24,3 @@ CMSMenu::remove_menu_item('CMSPageAddController');
 CMSMenu::remove_menu_item('CMSFileAddController');
 
 CMSMenu::remove_menu_item("SiteConfigLeftAndMain");
-ini_set('date.timezone', 'Pacific/Auckland');
