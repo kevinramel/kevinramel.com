@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>My Personal Portfolio</title>
+    <title>Kevin Ramel - Graduate Developer</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="$ThemeDir/css/bootstrap.min.css" rel="stylesheet">
@@ -311,7 +311,7 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
+                        <h3>Get in Touch</h3>
                         <p>021 147 6320</p>
                         <p><a href="mailto:kevinramel@gmail.com?Subject=Freelancer-<Insert Subject Here>">kevinramel@gmail.com</a></p>     
                         <p><a href="http://kevinramel.com">kevinramel.com</a></p>
