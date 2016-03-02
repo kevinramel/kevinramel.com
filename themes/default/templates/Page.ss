@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Kevinramel - Freelancer</title>
+    <title>My Personal Portfolio</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="$ThemeDir/css/bootstrap.min.css" rel="stylesheet">
@@ -85,7 +85,7 @@
                     <div class="intro-text">
                         <span class="name">Kevin Ramel</span>
                         <hr class="star-light">
-                        <span class="skills">Full Stack Developer - Job Seeker - Freelancer</span>
+                        <span class="skills">Developer - Job Seeker - Freelancer</span>
                         <br>
                         <br>
                         <p class="lead"><strong>OBJECTIVE</strong>
