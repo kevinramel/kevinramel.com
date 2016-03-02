@@ -3,4 +3,6 @@
 global $project;
 $project = 'mysite';
 
-global $databaseConfig;
+global $database;
+
+require_once('conf/ConfigureFromEnv.php');
